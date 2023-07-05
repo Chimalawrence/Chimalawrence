@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chimalawrence
 - 👀 I’m interested in tech skills and making friends
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects related to my field and learming more
+- 💞️ I’m looking to collaborate on projects related to my field and learning more
 - 📫 How to reach me @chiziano1 on twitter
 
 <!---
